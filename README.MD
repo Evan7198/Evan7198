@@ -1,6 +1,5 @@
 <div align="center">
   <h1>
-    Evan 
     <img src="https://github.com/Evan7198/Evan7198/blob/master/EVAN-LOGO.png" width="30px">
   </h1>
   <p>Hi there, welcome to my profile 👋</p>

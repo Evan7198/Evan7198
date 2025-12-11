@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     Evan 
-    <img src="https://github.com/Moerre/image/blob/2a865530e11e3919a630adfcea3db2189a43b3c7/MoerLogo.png" width="30px">
+    <img src="https://github.com/Evan7198/Evan7198/blob/master/EVAN-LOGO.png" width="30px">
   </h1>
   <p>Hi there, welcome to my profile 👋</p>
   

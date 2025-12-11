@@ -1,10 +1,8 @@
 <div align="center">
   <h1>
-    <img src="https://github.com/Evan7198/Evan7198/blob/master/EVAN-LOGO.png" width="90px">
+    <img src="https://github.com/Evan7198/Evan7198/blob/master/EVAN-LOGO.png" width="60px">
   </h1>
   <p>Hi there, welcome to my profile 👋</p>
-  
-  <img src="https://media.giphy.com/media/l41YdrQfHqbmXw6r6/giphy.gif" width="200px" alt="Welcome GIF">
 </div>
 
 ---

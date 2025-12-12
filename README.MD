@@ -12,7 +12,7 @@
   
 </div>
 
-<div align="center">
+<div >
   
   ![Discord](https://img.shields.io/badge/Discord-_evan__xd-7289DA?style=flat-square&logo=discord&logoColor=white)
   

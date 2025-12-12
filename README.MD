@@ -11,8 +11,11 @@
   [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PwAXYPMkkF)
   
 </div>
+
 <div align="center">
-![Discord](https://img.shields.io/badge/Discord-_evan__xd-7289DA?style=flat-square&logo=discord&logoColor=white)
+
+  [![Discord](https://img.shields.io/badge/Discord-_evan__xd-7289DA?style=flat-square&logo=discord&logoColor=white)]
+
 </div>
 
 

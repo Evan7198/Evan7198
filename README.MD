@@ -12,12 +12,11 @@
   
 </div>
 
-<div >
-  
-  ![Discord](https://img.shields.io/badge/Discord-_evan__xd-7289DA?style=flat-square&logo=discord&logoColor=white)
-  
-</div>
+
 
 <div align="center">
   <sub>Feel free to reach out! I'll respond as soon as I can. 😊</sub>
+<div >
+  ![Discord](https://img.shields.io/badge/Discord-_evan__xd-7289DA?style=flat-square&logo=discord&logoColor=white)
+</div>
 </div>

@@ -16,8 +16,7 @@
 ### **Contact Me**
   
   [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PwAXYPMkkF)
-  ![Discord](https://img.shields.io/badge/Discord-_evan__xd-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-  <sub>Feel free to reach out! I'll respond as soon as I can. 😊</sub>
+  ![Discord](https://img.shields.io/badge/Discord-_evan__xd-7289DA?style=for-the-badge&logo=discord&logoColor=white) <sub>Feel free to reach out! I'll respond as soon as I can. 😊</sub>
 
 ---
 

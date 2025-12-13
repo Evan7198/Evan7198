@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi there, welcome to my profile!</h1>
-  <p><i>Vibe Coding | Digital Design | Reverse Engineering </i></p>
+  <i>Vibe Coding | Digital Design | Reverse Engineering </i>
 </div>
 
 ---

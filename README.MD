@@ -2,7 +2,7 @@
   <h1>👋 Hi there, welcome to my profile!</h1>
   <i>Vibe Coding | Digital Design | Reverse Engineering </i>
 </div>
-Sponsor:[LatteCode](https://lattecode.cn)
+
 ---
 ### **Programming Languages**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logo=verilog&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6600?style=for-the-badge&logo=verilog&logoColor=white)
@@ -18,6 +18,10 @@ Sponsor:[LatteCode](https://lattecode.cn)
   [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PwAXYPMkkF)
   ![Discord](https://img.shields.io/badge/Discord-_evan__xd-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
+### **Sponsor**
+<a href="https://lattecode.cn" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-LatteCode-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="LatteCode Sponsor">
+</a>
 ---
 
 <div align="center">

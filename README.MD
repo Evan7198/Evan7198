@@ -18,10 +18,6 @@
   [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PwAXYPMkkF)
   ![Discord](https://img.shields.io/badge/Discord-_evan__xd-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-### **Sponsor**
-<a href="https://lattecode.cn" target="_blank">
-  <img src="https://img.shields.io/badge/Sponsor-LatteCode-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="LatteCode Sponsor">
-</a>
 
 ---
 
